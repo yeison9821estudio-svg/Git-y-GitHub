@@ -2,7 +2,7 @@
 ### Tabla de contenido
 
 
-- [PAGINA INICIO](../README.md/#manual-git-y-github)
+- [PAGINA INICIO](/README.md#manual-git-y-github)
 - [GIT](#git)
 - [Comandos básicos de consola](#comandos-básicos-de-consola)
 - [Comandos basicos de git](#comandos-basicos-de-git)

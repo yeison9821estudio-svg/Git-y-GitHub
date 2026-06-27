@@ -2,7 +2,7 @@
 
 Este es un manual básico de uso de Git y Git-Hub basado en varios cursos. Principalmente el el curso [Curso COMPLETO de GIT y GITHUB desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=3GymExBkKjE) de [Moure DV](https://www.youtube.com/@mouredev).
 
-![Imagen de inicio](Uso-de-git/assets/images/portadaGit-GitHub.jpg)
+![Imagen de inicio](Uso-de-Git/assets/images/portadaGit-GitHub.jpg)
 
 
   
