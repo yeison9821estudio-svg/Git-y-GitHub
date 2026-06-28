@@ -723,9 +723,9 @@ Luego de hacer un **git add .** y un **git commit -m ""** se realiza un **git pu
 
 Al modificar la misma linea simultaneamente en el documento Ensayo (3).py y hacer un pull para sincronizar los cambios antes de enviar el push. Nos indica que hay un conflicto que debemos arreglar.
 
-![Pull](assets/images/pull-error2.jpg)
+![Pull error](assets/images/pull-error2.jpg)
 
-![Pull](assets/images/pull-error.jpg)
+![Pull error](assets/images/pull-error.jpg)
 
 Al arreglar el conflicto en el archivo, guardar y luego comitear, ya se puede realizar el pull y el push normalmente.
 
